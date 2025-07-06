@@ -1,0 +1,12 @@
+{
+  "name": "mycode",
+  "version": "1.0.0",
+  "description": "A simple Node.js project for beginners.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["node", "beginner", "hello world"],
+  "author": "",
+  "license": "ISC"
+}
